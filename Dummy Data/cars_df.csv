@@ -1,0 +1,21 @@
+car_id,car_brand,car_model,car_type,car_transmission,year
+1,Toyota,Corolla,Sedan,True,1993
+2,Honda,Civic,Hatchback,False,2008
+3,Nissan,Altima,SUV,False,2011
+4,Mitsubishi,Outlander,MPV,True,1980
+5,Suzuki,Swift,Coupe,False,1980
+6,Ford,Fiesta,Convertible,False,1994
+7,Chevrolet,Cruze,Pickup,False,2017
+8,Hyundai,Elantra,Van,False,2015
+9,Kia,Optima,Wagon,True,2010
+10,BMW,3 Series,Crossover,False,1987
+11,Mercedes-Benz,E-Class,Luxury,True,1989
+12,Audi,A4,Sport,True,1982
+13,Lexus,RX,Compact,False,2018
+14,Volvo,S60,Electric,False,2020
+15,Volkswagen,Golf,Hybrid,True,1985
+16,Ferrari,488 GTB,Minivan,False,2003
+17,Lamborghini,Aventador,Truck,False,1998
+18,Porsche,911,Roadster,True,1981
+19,Tesla,Model S,Supercar,False,2003
+20,Jaguar,F-Type,Limousine,True,1985
